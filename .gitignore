@@ -130,7 +130,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -141,9 +140,9 @@ dist
 
 # IDE files
 .idea/
-.vscode/
 .DS_Store
 
 # Temporary files
 tmp/
 temp/
+.gitignore
